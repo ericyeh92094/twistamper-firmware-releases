@@ -1,1 +1,1 @@
-﻿# Twistamper firmware (GitHub Pages)
+﻿# Twistamper firmware
